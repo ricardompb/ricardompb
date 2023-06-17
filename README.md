@@ -25,7 +25,7 @@ Contatos:
 
 ![Ricardo Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardompb&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardompb&layout=compact)](https://github.com/ricardopb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardompb&layout=compact)](https://github.com/ricardompb)
 
 Skils:
 
