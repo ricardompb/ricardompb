@@ -6,17 +6,13 @@ Líder Técnico | Arquiteto de Softwares | Desenvolvedor Sênior | JavaScript | 
 
 ## Sobre
 
-Formado em Analise e Desenvolvimento de Sistemas pela universidade UNA
-e Pós graduado em Arquitetura de Softwares Distribuídos pela PUC Minas
+Formado em Análise e Desenvolvimento de Sistemas pela Universidade UNA e pós-graduado em Arquitetura de Softwares Distribuídos pela PUC Minas.
 
-Sou analista de sistemas com mais de 18 anos de experiência.
-Utilizando-se Visual Studio desde sua versão 2005, 2008, 2012, 2013, 2015, 2017, 2019, 2022.
-Projetos em Windows Forms Web Forms e Asp.Net MVC com JQuery, Html5 e css3 com Ado.Net, NHibernate, Entity Framework e Dapper, Unity para Injeção de Dependência, e AutoMapper.
-Sempre aplicando DDD e SOLID. 
-Atualmente trabalhando com .Net 6 webapi no backend com Metodo de autenticação usando JWT(Json web token), usando como persistência o NHibernate e com auxilio do FluentNHibernate para realizar as tarefas de mateamento. 
-No frontend utilizando Vue.js modelo SPA.
+Sou analista de sistemas com mais de 18 anos de experiência. Tenho expertise no uso do Visual Studio, desde as versões 2005, 2008, 2012, 2013, 2015, 2017, 2019 e 2022. Atuei em projetos utilizando Windows Forms, Web Forms e ASP.NET MVC, empregando tecnologias como jQuery, HTML5 e CSS3, além de ADO.NET, NHibernate, Entity Framework e Dapper. Tenho experiência com Unity para injeção de dependência e AutoMapper, aplicando sempre os princípios de DDD e SOLID.
 
-Atualmente atuando como Líder técnico em um projeto onde utilizamos nodejs no backend com sequelize e express e no frontend vuejs com quasar framework, também usando a arquitetura DDD para separação de contextos .
+Atualmente, trabalho com .NET 6 no desenvolvimento de Web APIs no backend, utilizando autenticação baseada em JWT (JSON Web Token). Para persistência de dados, utilizo NHibernate com o suporte do FluentNHibernate para mapeamento. No frontend, utilizo Vue.js no modelo SPA (Single Page Application).
+
+Além disso, atuo como líder técnico em um projeto que utiliza Node.js no backend, com Sequelize e Express, e Vue.js no frontend, implementado com o Quasar Framework. Nesse projeto, aplicamos a arquitetura DDD para separação de contextos, garantindo organização e escalabilidade.
 
 Contatos:
 
